@@ -1,28 +1,17 @@
-<table>
-  <tr>
-    <td width="34%" valign="middle">
-<img src="assets/portrait.png" alt="Illustration of Kevin working at a laptop, seen from behind with a coffee in hand" width="60%">
-    </td>
-    <td width="48%" valign="middle">
+<div align="center">
+<img src="assets/portrait.png" alt="Illustration of Kevin working at a laptop, seen from behind with a coffee in hand" width="120">
 
-<h1>Kevin S. F. García</h1>
+# Kevin S. F. García
 
-<strong>Jr. Software Engineering · Backend Systems · Mobile</strong>
+**Jr. Software Engineer · Backend & Mobile**
 
-<p>
-I build maintainable software with a strong focus on backend architecture,
-application security, and systems that are easy to understand and evolve.
-</p>
+Currently looking for my next role. Feel free to explore my portfolio below or connect with me via the links.
 
-<p>
-<code>Mexico</code> · <code>Software Engineering</code>
-</p>
+[Portfolio](https://overnuke.github.io/personal-portfolio/) · [LinkedIn](https://www.linkedin.com/in/keffwontwakeup/) · [Email](mailto:ksfgarcia24@gmail.com)
 
-<p>
-<a href="https://overnuke.github.io/personal-portfolio/">Portfolio</a> ·
-<a href="https://www.linkedin.com/in/keffwontwakeup/">LinkedIn</a> ·
-<a href="mailto:ksfgarcia24@gmail.com">Email</a>
-</p>
+</div>
+
+---
 
 ## Currently
 
@@ -30,85 +19,12 @@ application security, and systems that are easy to understand and evolve.
 LEARNING  → AI for Future Workforce — GenAI
 PROGRAM   → Public AI Training Center
 ```
-  </tr>
-</table>
-
----
-
-## Some of my Work
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3><code>BARBERSHOP</code></h3>
-      <p>Backend system for appointment scheduling and business operations.</p>
-      <p><strong>Node.js · Express · Sequelize · MySQL · Docker · Vitest</strong></p>
-<pre>Routes
-   │
-   ▼
-Controllers
-   │
-   ▼
-Services
-   │
-   ▼
-Repositories
-   │
-   ▼
-Sequelize
-   │
-   ▼
-MySQL
-</pre>
-      <p>Built around a layered architecture with scheduling rules, barber availability,
-appointment collision detection, role-based operations, notifications, and automated tests.</p>
-      <p>→ <a href="https://github.com/Sinhularity/barbershop">Explore project</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><code>DOCUMENT'S MODULE</code></h3>
-      <p>Document access-control system built on top of Odoo.</p>
-      <p><strong>Python · Odoo · OWL · Access Control</strong></p>
-<pre>                 ┌──────────┐
-                 │   User   │
-                 └────┬─────┘
-                      │
-                 ┌────▼─────┐
-                 │  Groups  │
-                 └────┬─────┘
-                      │
-              ┌───────┴────────┐
-              ▼                ▼
-           VIEW              WRITE
-              │                │
-              └───────┬────────┘
-                      ▼
-              documents.document
-</pre>
-      <p>Focused on folder visibility, read/write groups, permission propagation,
-auditing, and maintainable access-control rules.</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <table width="70%">
-        <tr>
-          <td align="center">
-            <h3><code>ACOPIATECH</code></h3>
-            <p><strong>3rd Place at ANFECA's XIX Regional Entrepreneurial Expo</strong></p>
-            <p>Mobile application developed as part of an entrepreneurial project and presented
-at ANFECA's regional competition.</p>
-            <p>→ <a href="https://github.com/Sinhularity/acopiatech-app">Source</a></p>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
 
 ---
 
 ## Stack
 
+<!-- tech-stack:start -->
 <p align="center">
 <kbd><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tech-icons/python-white.svg"><source media="(prefers-color-scheme: light)" srcset="assets/tech-icons/python-gray.svg"><img src="assets/tech-icons/python-gray.svg" alt="" width="12" height="12" align="middle"></picture>&nbsp;Python</kbd>
 <kbd><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tech-icons/nodejs-white.svg"><source media="(prefers-color-scheme: light)" srcset="assets/tech-icons/nodejs-gray.svg"><img src="assets/tech-icons/nodejs-gray.svg" alt="" width="12" height="12" align="middle"></picture>&nbsp;Node.js</kbd>
@@ -127,5 +43,4 @@ at ANFECA's regional competition.</p>
 <kbd><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tech-icons/docker-white.svg"><source media="(prefers-color-scheme: light)" srcset="assets/tech-icons/docker-gray.svg"><img src="assets/tech-icons/docker-gray.svg" alt="" width="12" height="12" align="middle"></picture>&nbsp;Docker</kbd>
 <kbd><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tech-icons/git-white.svg"><source media="(prefers-color-scheme: light)" srcset="assets/tech-icons/git-gray.svg"><img src="assets/tech-icons/git-gray.svg" alt="" width="12" height="12" align="middle"></picture>&nbsp;Git</kbd>
 </p>
-
----
+<!-- tech-stack:end -->
