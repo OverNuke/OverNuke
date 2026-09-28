@@ -1,0 +1,14 @@
+{
+  "name": "overnuke-readme",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate:tech-badges": "node scripts/generate-tech-badges.mjs",
+    "check:tech-badges": "node scripts/generate-tech-badges.mjs --check"
+  },
+  "devDependencies": {
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "tech-stack-icons": "^3.7.1"
+  }
+}
